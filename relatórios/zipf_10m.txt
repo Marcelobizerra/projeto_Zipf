@@ -1,0 +1,14 @@
+
+ Posição : 10 Palavra: para
+
+ Posição : 100 Palavra: coisa
+
+ Posição : 1000 Palavra: naquele
+
+                          Palavras  Quantidade
+0       Posição : 10 Palavra: para         646
+1     Posição : 100 Palavra: coisa          65
+2  Posição : 1000 Palavra: naquele           6
+
+Quantidade de palavras: 50802                    
+Quantidade de palavras Destintas: 6111
